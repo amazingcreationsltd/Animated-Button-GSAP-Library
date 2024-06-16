@@ -27,7 +27,7 @@ The Documentation is available at
 
 ## Screenshots
 
-![Project Demo]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/amazingcreationsltd/Animated-Button-GSAP-Library/assets/71249161/495159e8-e649-444d-87a5-7da53fdc3ea9))
+![Project Demo](https://github.com/amazingcreationsltd/Animated-Button-GSAP-Library/assets/71249161/495159e8-e649-444d-87a5-7da53fdc3ea9)
 
 
 
