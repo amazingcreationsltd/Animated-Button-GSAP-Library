@@ -2,11 +2,9 @@
 # Animated Button for Website using GSAP 
 
 Creating Eye-Catching Animated Buttons with GSAP
-
-
 This repository delves into creating interactive and visually appealing buttons using the GSAP animation library.
 
-**#️⃣Key Features:**
+**#️⃣Key Features of GSAP:**
 
 * **Diverse Animations:** Explore various animation effects like hover effects, click effects, morphing, and more. Customize them to perfectly complement your website's design and functionality.
 * **Smooth Performance:** GSAP is known for its efficient and cross-browser compatible animations, ensuring a seamless user experience across different devices and browsers.
