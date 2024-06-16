@@ -27,7 +27,11 @@ The Documentation is available at
 
 ## Animation:
 
-![Project Demo](https://github.com/amazingcreationsltd/Animated-Button-GSAP-Library/assets/71249161/495159e8-e649-444d-87a5-7da53fdc3ea9)
+! Project Demo:
+
+https://github.com/amazingcreationsltd/Animated-Button-GSAP-Library/assets/71249161/b3d19b94-5c58-49e6-be5d-76a704381f27
+
+
 
 
 
