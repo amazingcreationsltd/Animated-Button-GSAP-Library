@@ -1,6 +1,12 @@
 
 # Animated Button for Website using GSAP 
 
+## Animation:
+
+! Project Demo:
+
+https://github.com/amazingcreationsltd/Animated-Button-GSAP-Library/assets/71249161/b3d19b94-5c58-49e6-be5d-76a704381f27
+
 Creating Eye-Catching Animated Buttons with GSAP
 This repository delves into creating interactive and visually appealing buttons using the GSAP animation library.
 
@@ -25,11 +31,7 @@ The Documentation is available at
 [Documentation](https://gsap.com/docs/v3/)
 
 
-## Animation:
 
-! Project Demo:
-
-https://github.com/amazingcreationsltd/Animated-Button-GSAP-Library/assets/71249161/b3d19b94-5c58-49e6-be5d-76a704381f27
 
 
 
