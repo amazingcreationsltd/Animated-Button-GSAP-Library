@@ -25,7 +25,7 @@ The Documentation is available at
 [Documentation](https://gsap.com/docs/v3/)
 
 
-## Screenshots
+## Animation:
 
 ![Project Demo](https://github.com/amazingcreationsltd/Animated-Button-GSAP-Library/assets/71249161/495159e8-e649-444d-87a5-7da53fdc3ea9)
 
