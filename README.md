@@ -27,5 +27,9 @@ The Documentation is available at
 
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://cdn.discordapp.com/attachments/1251945171268927598/1251945243830386719/magnetic_button.mp4?ex=66706c5e&is=666f1ade&hm=e6e189d6669961eba24c7cfbd884847af202cb7fbc20291141d033e39ff11e64&))
+![Project Demo]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/amazingcreationsltd/Animated-Button-GSAP-Library/assets/71249161/495159e8-e649-444d-87a5-7da53fdc3ea9))
+
+
+
+
 
